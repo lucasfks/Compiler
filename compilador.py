@@ -160,8 +160,6 @@ def main():
                                     compiled_code += v
                                     compiled_code += dictionary_value[2]
 
-                            # pdb.set_trace()
-
 
                         elif dictionary_value == 'expression':
                             # separa operação entre lados direito e esquerdo do sinal de igual (=)
@@ -212,8 +210,7 @@ def main():
                             expression_to_be_compiled = expression_to_be_compiled + ";"
                             compiled_code = expression_to_be_compiled
                             
-
-
+                            
                         else:
                             compiled_code = dictionary_value
 
