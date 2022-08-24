@@ -15,3 +15,15 @@ Itens que foram entregues no projeto:
 - Verifica declaração de variávies (não usar variáveis que não foram declaradas)	
 - Verifica se há variáveis declaradas e não-utilizadas (warning)	
 - Geração da linguagem destino C.
+
+
+## Como executar compilador
+Primeiramente, deve-se baixar o repositório e, dentro do diretório onde se encontram os arquivos do repositório, deve-se rodar a instrução: 
+
+`pip install -r requirements.txt`
+
+Tendo feito isso, para executar o compilador, deve-se utilizar o seguinte comando:
+
+ Mac/Linux: `python compilador.py <nome_do_arquivo>.isi`
+ 
+ Windows:   `py compilador.py <nome_do_arquivo>.isi`
