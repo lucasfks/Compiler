@@ -207,7 +207,7 @@ def main():
                                         return
 
                             # Se todas as variáveis foram declaradas e são do mesmo tipo
-                            expression_to_be_compiled = expression_to_be_compiled + ";"
+                            expression_to_be_compiled = expression_to_be_compiled + ";" + "\n"
                             compiled_code = expression_to_be_compiled
                             
                             
