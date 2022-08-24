@@ -22,7 +22,7 @@ Primeiramente, deve-se baixar o repositório e, dentro do diretório onde se enc
 
 `pip install -r requirements.txt`
 
-Tendo feito isso, para executar o compilador, deve-se utilizar o seguinte comando:
+Tendo feito isso, para executar o compilador deve-se utilizar o seguinte comando:
 
  Mac/Linux: `python compilador.py <nome_do_arquivo>.isi`
  
