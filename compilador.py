@@ -2,7 +2,7 @@ import regex
 import sys
 
 PATTERNS_AND_RESPECTIVE_CODE = {
-    r"programa": "#include <stdio.h>\n\nvoid main(void) {\n",
+    r"programa": "#include <stdio.h>\n\nint main() {\n",
     r"fimprog.": "return 0;\n}\n",
     r"^\s*\}\s*$": "}\n",
     r'^\s*\{\s*$': '{\n',
