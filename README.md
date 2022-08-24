@@ -2,6 +2,9 @@
 
 Projeto da disciplina de Compiladores desenvolvido por Lucas Ferreira Kitahara Sousa (R.A.: 11201811160).
 
+Vídeo do projeto:
+https://youtu.be/FXplTqC437M
+
 Itens que foram entregues no projeto:
 - Possui 3 tipos de dados (string, int e float) 	
 - Possui a instrução de decisão (if/else)	
