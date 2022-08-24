@@ -28,7 +28,7 @@ def help():
         Help: --help
         Como executar o compilador:
             Mac/Linux: python compilador.py <nome_do_arquivo>.isi
-            Windows:   py compilador <nome_do_arquivo>.isi
+            Windows:   py compilador.py <nome_do_arquivo>.isi
         """
     )
 
