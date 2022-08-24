@@ -97,7 +97,7 @@ def main():
                                     variable_values[var_name] = 'input'
                                 # se a variável for do tipo string
                                 elif var_name in variables['string']:
-                                    dictionary_value[1] = f'"%s", &{var_name}'
+                                    dictionary_value[1] = f'"%s", {var_name}'
                                     variable_values[var_name] = 'input'
                                 else:
                                     print(f"---Erro: Variavel {var_name} nao foi declarada.")
