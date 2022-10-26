@@ -1,6 +1,6 @@
 # Compiler
 
-Projeto da disciplina de Compiladores desenvolvido por Lucas Ferreira Kitahara Sousa (R.A.: 11201811160).
+Projeto da disciplina de Compiladores.
 
 Vídeo do projeto:
 https://youtu.be/FXplTqC437M
